@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Record"
+  short_description: "Agent-focused experiment and handoff logs"
+  default_prompt: "Use $research-record to record the current experiment state, evidence, and next action in this repository."
+policy:
+  allow_implicit_invocation: true
