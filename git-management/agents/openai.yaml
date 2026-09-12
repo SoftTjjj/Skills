@@ -1,0 +1,7 @@
+interface:
+  display_name: "Git Management"
+  short_description: "Run agent coding in safe Git worktrees"
+  default_prompt: "Use $git-management to develop this change in an experimental worktree and promote only verified results."
+
+policy:
+  allow_implicit_invocation: true
